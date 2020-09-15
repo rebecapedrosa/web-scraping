@@ -1,0 +1,19 @@
+{
+  "name": "scrap-govbr",
+  "version": "1.0.0",
+  "description": "Exemplo simples de raspagem de dados em um site do governo federal brasileiro com Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "node": "^14.8.0",
+    "puppeteer": "^5.2.1",
+    "request": "^2.88.2"
+  }
+}
